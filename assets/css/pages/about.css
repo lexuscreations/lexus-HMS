@@ -1,0 +1,3 @@
+.container[class*="aboutCon"] {
+    min-height: 77vh;
+}

@@ -1,0 +1,7 @@
+.addPatientErrorMsgContainer {
+    display: none;
+}
+
+.addPatientErrorMsgContainer[class*="active"] {
+    display: block;
+}
