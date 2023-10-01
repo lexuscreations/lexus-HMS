@@ -1,7 +1,1 @@
-# lhms
-Lexus-Hospital-Management-System
-<br/>
-<br/>
-<hr/>
-<br/>
-Link - Temp. Down _ Sorry
+## Lexus-HMS | Lexus-Hospital-Management-System
